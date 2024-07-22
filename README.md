@@ -1,4 +1,4 @@
-#  RGB Slider Background 
+#  RGB Slider Background 🎨
 
 ## Enlace 🔗
 
